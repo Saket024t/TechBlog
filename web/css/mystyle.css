@@ -1,0 +1,30 @@
+.primary-background{
+    /*background: #ffc107 !important;*/
+    /*background: #1590ed !important;*/
+    /*background: #fa9705 !important;*/
+    /*background: #fc960f !important;*/
+    background: #3e3d53 !important;
+}
+.post-block{
+     margin: 10px auto;
+
+        
+}
+.post-img{
+    border-left: 25px solid #EDEDED;
+    border-right: 25px solid #EDEDED;
+}
+.post-header{
+    background: gray;
+    /*padding: 5px;*/
+    padding-top : 10px; 
+    margin-right: 5px;
+}
+
+.background-index-img{
+    background-image: url("img/7495.jpg");background-repeat: no-repeat;background-size: 300px 100px;
+    
+}
+.bg-color{
+    background: #f5f5f5 !important;
+}
